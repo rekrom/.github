@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Welcome to [Rekrom Optoelektronik] 🌟
+# Welcome to Rekrom Optoelektronik 🌟
 
 👋 **Welcome to our GitHub organization!** We're glad you're here. At **[Rekrom Optoelektronik]**, we strive to create impactful projects and foster collaboration within the developer community.
 
