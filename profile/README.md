@@ -13,7 +13,7 @@
 
 # Welcome to Rekrom Optoelektronik 🌟
 
-👋 **Welcome to our GitHub organization!** We're glad you're here. At **[Rekrom Optoelektronik]**, we strive to create impactful projects and foster collaboration within the developer community.
+👋 **Welcome to our GitHub organization!** We're glad you're here. At **Rekrom Optoelektronik**, we strive to create impactful projects and foster collaboration within the developer community.
 
 ---
 
@@ -29,10 +29,13 @@ At our core, we combine the precision of physics with the power of modern softwa
 
 Here are some of the tools and technologies we use to develop our LiDAR systems:
 
+- **Hardware**: FPGA
+- **Hardware Description Language**: VHDL
 - **Programming Languages**: C, C++, Python, JavaScript
-- **Microcontroller Platform**: STM32 (using STM32CubeIDE)
+- **Microcontroller Platform**: STM32
 - **Frameworks**: Django (Backend), React (Frontend)
 - **Tools**: GitHub Actions (CI/CD), Visual Studio Code (IDE)
+
 
 ---
 
